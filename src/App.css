@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+table {
+  border-spacing: 0px;
+  width: 50%;
+  margin: 0%;
+  padding: 0%;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  border-collapse: collapse;
+  border: #effafa;
+  margin-left: 80px;
+}
+
+thead tr {
+  background-color: honeydew;
+  border-bottom: 1px solid #ccc;
+}
+
+thead th {
+  padding: 20px;
+  white-space: nowrap;
+  text-align: left;
+  border: none;
+  text-align: center;
+  background-color: rgb(250, 247, 242);
+  white-space: nowrap;
+}
+
+tbody tr {
+  background-color: white;
+  border-bottom: 1px solid rgb(230, 225, 225);
+}
+
+tbody td {
+  padding: 10px;
+  line-height: 28px;
+  white-space: nowrap;
+  text-align: left;
+  text-align: center;
+  overflow-wrap: break-word;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.product_description p {
+  opacity: 0.6;
+}
+.address p {
+  opacity: 0.6;
+}
+
+.green {
+  color: rgb(24, 238, 24);
+}
+.blue {
+  color: rgb(102, 102, 223);
+}
+.orange {
+  color: rgb(248, 172, 29);
+}
+.status {
+  align-items: center;
+  margin-top: 12px;
+  background-color: #f0f6fc;
+  border: none;
+  border-radius: 100px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  font-size: 14px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 20px;
+  overflow: hidden;
+  padding: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+}
+
+.inputField {
+  width: 500px;
+  color: rgb(10, 7, 24);
+  font-size: 16px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+  border-radius: 4px;
+  padding: 8px 16px;
+  border: 2px solid whitesmoke;
+  box-shadow: rgb(0 0 0 / 12%) 0px 1px 3px, rgb(0 0 0 / 24%) 0px 1px 2px;
+  background: rgb(251, 251, 251);
+  transition: all 0.1s ease 0s;
+}
+.inputField:focus {
+  border: 2px solid rgb(239, 241, 252);
+}
+
+.search-img {
+  position: relative;
+  top: 10px;
+  left: 540px;
+  width: 30px;
+  height: 30px;
+  color: rgb(218, 183, 183);
+}
+
+.order {
+  font-size: 20px;
+  margin-top: 7px;
+  margin-left: 80px;
+
+  position: absolute;
+}
+
+.result {
+  position: relative;
+  top: 10px;
+  left: 1080px;
+  font-size: 20px;
+  padding-bottom: 20px;
+  padding-bottom: 20px;
+}
