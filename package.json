@@ -2,7 +2,7 @@
   "name": "vedx-fc",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://jeyakarthick44.github.io/Dashboard/vedx-fc",
+  "homepage":"http://jeyakarthick44.github.io/vedx-fc",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/react-fontawesome": "^0.1.16",
