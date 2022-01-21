@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dashboard/vedx-fc/static/css/main.fb9bad4e.css",
+    "main.js": "/Dashboard/vedx-fc/static/js/main.3e4736ca.js",
+    "static/js/787.96765c0e.chunk.js": "/Dashboard/vedx-fc/static/js/787.96765c0e.chunk.js",
+    "index.html": "/Dashboard/vedx-fc/index.html",
+    "main.fb9bad4e.css.map": "/Dashboard/vedx-fc/static/css/main.fb9bad4e.css.map",
+    "main.3e4736ca.js.map": "/Dashboard/vedx-fc/static/js/main.3e4736ca.js.map",
+    "787.96765c0e.chunk.js.map": "/Dashboard/vedx-fc/static/js/787.96765c0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb9bad4e.css",
+    "static/js/main.3e4736ca.js"
+  ]
+}
